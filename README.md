@@ -4,19 +4,20 @@
 
 <img src="screenshots/function_graph.png" width="405" height="307">
 
-Alioli is a food app that aims to centralize different recipe and product functionalities in one place.
+[Alioli](https://alioliapp.github.io/home/) is a food app that aims to centralize different recipe and product functionalities in one place.
 
 Built with Flutter and Firebase, it includes the use of design patterns, NoSQL and SQLite databases, and integration with external APIs.
 
 Download by clicking on the following image:
+
 [![Descargar APK](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.jc.alioli)
 
 ## 📸 Screenshots
 
 <div style="display: flex; justify-content: space-between;">
     <img src="screenshots/image1.png" alt="Screenshot 1" width="200"/>
-    <img src="screenshots/image2.png" alt="Screenshot 2" width="200"/>
-    <img src="screenshots/image3.png" alt="Screenshot 3" width="200"/>
+    <img src="screenshots/image3.png" alt="Screenshot 2" width="200"/>
+    <img src="screenshots/image2.png" alt="Screenshot 3" width="200"/>
 </div>
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
@@ -42,19 +43,20 @@ With Alioli you can:
 
 <img src="screenshots/function_graph.png" width="405" height="307">
 
- Alioli es una aplicación sobre alimentación que trata de centralizar distintas funcionalidades sobre recetas y productos en un solo lugar.
+[Alioli](https://alioliapp.github.io/home/) es una aplicación sobre alimentación que trata de centralizar distintas funcionalidades sobre recetas y productos en un solo lugar.
 
 Realizada con Flutter y Firebase, incluye el uso de patrones de diseño, bases de datos NoSQL y SQLite e integración con apis externas.
 
 Descargar haciendo click sobre la siguiente imagen:
+
 [![Descargar APK](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.jc.alioli)
 
 ## 📸 Capturas
 
 <div style="display: flex; justify-content: space-between;">
     <img src="screenshots/image1.png" alt="Screenshot 1" width="200"/>
-    <img src="screenshots/image2.png" alt="Screenshot 2" width="200"/>
-    <img src="screenshots/image3.png" alt="Screenshot 3" width="200"/>
+    <img src="screenshots/image3.png" alt="Screenshot 2" width="200"/>
+    <img src="screenshots/image2.png" alt="Screenshot 3" width="200"/>
 </div>
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
