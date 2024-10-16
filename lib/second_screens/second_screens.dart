@@ -1,0 +1,16 @@
+export 'basket_screen.dart';
+export 'pantry_screen.dart';
+export 'add_ingredient.dart';
+export 'profile_screen.dart';
+export 'settings_screen.dart';
+export 'notifications_screen.dart';
+export 'drafts_sceen.dart';
+export 'barcode_screen.dart';
+export 'recipe_screen.dart';
+export 'upload_screen.dart';
+export 'search_result.dart';
+export 'filter_screen.dart';
+export 'recipes_list_screen.dart';
+export 'admin_screen.dart';
+export 'pruebas.dart';
+export 'overboard_screen.dart';
