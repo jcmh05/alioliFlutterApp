@@ -39,7 +39,7 @@ With Alioli you can:
 - ⬆️ Upload your own recipes to the platform so that they can be accessible by everyone.
 
 
-# WORDEL - Aplicación en Flutter
+# Alioli - Aplicación en Flutter
 
 <img src="screenshots/function_graph.png" width="405" height="307">
 
