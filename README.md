@@ -30,13 +30,13 @@ Download by clicking on the following image:
 ## 📌 Features
 With Alioli you can:
 
-🛒 Organize your pantry food list, as well as your shopping list.
-📅 Receive notifications when your products are close to their expiration date.
-🔍 Scan the barcode of the products to get a summary of their nutritional information.
-🥕 Search for recipes based on the foods in your pantry, among other search criteria such as recipe name or category to which they belong.
-🔧 Apply a multitude of filters to searches, classifying them by vegan, vegetarian, preparation time, best rating or existence of videos among other filters.
-📚 Create your own personalized recipe lists.
-⬆️ Upload your own recipes to the platform so that they can be accessible by everyone.
+- 🛒 Organize your pantry food list, as well as your shopping list.
+- 📅 Receive notifications when your products are close to their expiration date.
+- 🔍 Scan the barcode of the products to get a summary of their nutritional information.
+- 🥕 Search for recipes based on the foods in your pantry, among other search criteria such as recipe name or category to which they belong.
+- 🔧 Apply a multitude of filters to searches, classifying them by vegan, vegetarian, preparation time, best rating or existence of videos among other filters.
+- 📚 Create your own personalized recipe lists.
+- ⬆️ Upload your own recipes to the platform so that they can be accessible by everyone.
 
 
 # WORDEL - Aplicación en Flutter
@@ -68,10 +68,10 @@ Descargar haciendo click sobre la siguiente imagen:
 ## 📌 Características
 Con Alioli puedes:
 
-🛒 Organizar tu lista de alimentos en despensa, así como tu lista de la compra.
-📅 Recibir notificaciones cuando tus productos estén próximos a su fecha de caducidad.
-🔍 Escanear el código de barras de los productos para obtener un resumen de su información nutricional.
-🥕 Buscar recetas basadas en los alimentos de tu despensa, entre otros criterios de búsqueda como nombre de la receta o categoría a la que pertenecen.
-🔧 Aplicar multitud de filtros a las búsquedas, clasificándolas por veganas, vegetarianas, tiempo de preparación, mejor valoración o existencia de vídeos entre otros filtros.
-📚 Crear tus propias listas de recetas personalizadas.
-⬆️ Subir tus propias recetas a la plataforma para que puedan ser accesibles por todo el mundo.
+- 🛒 Organizar tu lista de alimentos en despensa, así como tu lista de la compra.
+- 📅 Recibir notificaciones cuando tus productos estén próximos a su fecha de caducidad.
+- 🔍 Escanear el código de barras de los productos para obtener un resumen de su información nutricional.
+- 🥕 Buscar recetas basadas en los alimentos de tu despensa, entre otros criterios de búsqueda como nombre de la receta o categoría a la que pertenecen.
+- 🔧 Aplicar multitud de filtros a las búsquedas, clasificándolas por veganas, vegetarianas, tiempo de preparación, mejor valoración o existencia de vídeos entre otros filtros.
+- 📚 Crear tus propias listas de recetas personalizadas.
+- ⬆️ Subir tus propias recetas a la plataforma para que puedan ser accesibles por todo el mundo.
