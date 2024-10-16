@@ -9,7 +9,7 @@ Alioli is a food app that aims to centralize different recipe and product functi
 Built with Flutter and Firebase, it includes the use of design patterns, NoSQL and SQLite databases, and integration with external APIs.
 
 Download by clicking on the following image:
-[![Descargar APK](https://github.com/jcmh05/alioliFlutterApp/raw/main/screenshots/download.png)](https://play.google.com/store/apps/details?id=com.jc.alioli)
+[![Descargar APK](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.jc.alioli)
 
 ## 📸 Screenshots
 
@@ -47,7 +47,7 @@ With Alioli you can:
 Realizada con Flutter y Firebase, incluye el uso de patrones de diseño, bases de datos NoSQL y SQLite e integración con apis externas.
 
 Descargar haciendo click sobre la siguiente imagen:
-[![Descargar APK](https://github.com/jcmh05/alioliFlutterApp/raw/main/screenshots/download.png)](https://play.google.com/store/apps/details?id=com.jc.alioli)
+[![Descargar APK](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.jc.alioli)
 
 ## 📸 Capturas
 
